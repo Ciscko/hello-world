@@ -1,2 +1,2 @@
 # hello-world
-first one
+hello Dudes i'm a php Dude and this is my world.
